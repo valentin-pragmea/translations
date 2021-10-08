@@ -4361,6 +4361,104 @@
           }
         }
       }
+    },
+    "alpha": {
+      "banner": {
+        "title": "Alpha Season",
+        "subtitle": "Playing the",
+        "description": "First glance at the Metaverse and on all the wonderful things you, the player will be able to create and host on your LAND. Welcome!",
+        "button": "Play"
+      },
+      "topInfos": {
+        "title": "The Sandbox",
+        "paragraph": "The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences and assets inside an immense virtual world. The Sandbox offers a suite of tools, tailor-made to empower players to come together and create engaging experiences across the metaverse."
+      },
+      "intro": {
+        "title": "The sandbox is very happy to release its first closed Alpha!",
+        "description": "Please remember the ecosystem is still work in progress so you might still find some fresh paint and bugs. Our main goals are to test our servers infrastructure, social management and user flow. Please help us improve the experience by providing feedback on our website in the Alpha section.",
+        "subtitle": "Have fun"
+      },
+      "alpha": {
+        "title": "Alpha Season",
+        "subtitle": "How does it work, waht can we do and what do we earn? We tell you everything!",
+        "sections": {
+          "1": {
+            "subtitle": "OWN A LAND AND REGISTER TO THE LOTTERY",
+            "title1": "Do you have",
+            "title2": "Season pass?",
+            "paragraphs": {
+              "1": "The Alpha Season is open for holders of the Season Pass NFT ticket.",
+              "2": "Take part in the lottery to try to win one of the 1000 tickets available. To participate you just need to own a Land and to be registered. You don’t have a Land?",
+              "3": "You haven’t won the lottery? The Season Pass is an NFT that can be traded on Opensea!"
+            },
+            "button": "Find it on OpenSea"
+          },
+          "2": {
+            "subtitle": "WON A TICKET? PLAY THE ALPHA",
+            "title1": "Dive into",
+            "title2": "the Alpha",
+            "paragraphs":  {
+              "1": "Explore, Dance, Chat, Play and more activities await you.",
+              "2": "During the 31 days of the Alpha Season, come and discover 15 extraordinary new experiences gradually released.",
+              "3": "Meet other players and participate to Social Events which will take place regularly to win extra rewards."
+            }
+          },
+          "3": {
+            "subtitle": "PLAY TO EARN",
+            "title1": "A metaverse",
+            "title2": "of NFTS",
+            "paragraphs": {
+              "1": "Throughout the Alpha Season, explore the Metaverse to complete objectives and earn great rewards - 7 exclusive to the Alpha Season NFT and",
+              "2": "500 sand",
+              "3": "The Alpha Season includes over nine hundred new NFTs! Everything you can see in the game can be purchased in the Sandbox Marketplace."
+            }
+          }
+        }
+      },
+      "rewards": {
+        "title": "All about the rewards",
+        "paragraph": "How does it work, what can we do and what do we earn? We tell you everything!"
+      },
+      "reward": {
+        "title": "Reward",
+        "subtitle": "+1.000 Sand",
+        "paragraph1": "The total price pool is 1M SAND!",
+        "paragraph2": "Each player can win up to 1,000 SAND. That is, there will be 1,000 winners!"
+      },
+      "explore": {
+        "title": "Explore our best levels",
+        "subtitle": "Everything you can see in the game can be purchased in the marketplace.",
+        "button": "Go to The Marketplace"
+      },
+      "hub": {
+        "title1": "Meet your friends",
+        "title2": "In the Hubs",
+        "button": "Go to The HUB",
+        "paragraph": "The Sandbox Hub is the central place of the Metaverse. You can find here a Gallery where many NTFs are exhibited, access portals to other experiences, a concert space as well as three areas inhabited by our factions: Oracles, Heroes and Scientists."
+      },
+      "glitches": {
+        "title": "Glitches in the Metaverse",
+        "paragraph1": "We don’t know yet what causes this, but you’ll frequently find Metaglitches, those little bits of other places of the Metaverse that spawn where they shouldn’t.",
+        "paragraph2": "This is the opportunity to meet people and see NFTs that we don’t often meet!",
+        "author": {
+          "text": "““I was looking for provisions for Carl and I arrived at this strange place … is it Altanta?””",
+          "name": "Rick Grimes"
+        }
+      },
+      "header": {
+        "topSection": {
+          "alpha": "Alpha Season",
+          "rewards": "Rewards",
+          "hub": "Main Hub",
+          "partners": "Partners"
+        }
+      },
+      "join": {
+        "button": "Join us now"
+      },
+      "partners": {
+        "title": "Partners"
+      }
     }
   },
   "modals": {
